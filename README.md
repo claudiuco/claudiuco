@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on malware analyis topics  
 - 📫 How to reach me: no thanks, no need for phising emails. 
 - 😄 Pronouns: security/convenience
-- ⚡ Fun fact: I used to be a system administrator and to hate my guts security guys! 
+- ⚡ Fun fact: I used to be a system administrator and to hate my guts security guys! If you cannot beat them, join them. 
 
 <!---
 thegoodroot/thegoodroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
