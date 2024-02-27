@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thegoodroot
 - 👀 I’m interested in cybersecurity, malware analysis and incident response.
-- 🌱 I’m currently preapring for CompTIA Security+
+- 🌱 I’m currently preparing for CompTIA Security+ and ISC2 Certificate in Cybersecurity (CC)
 - 💞️ I’m looking to collaborate on malware analyis topics  
-- 📫 How to reach me: no thanks, no need for phising emails. 
+- 📫 How to reach me: no thanks, no need for phishing emails. 
 - 😄 Pronouns: security/convenience
 - ⚡ Fun fact: I used to be a system administrator and to hate my guts security guys! If you cannot beat them, join them. 
 
