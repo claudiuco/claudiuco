@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thegoodroot
+- 👋 Hi, I’m @claudiuco
 - 👀 I’m interested in cybersecurity, malware analysis and incident response.
 - 🌱 I’m currently preparing for CompTIA Security+ and ISC2 Certificate in Cybersecurity (CC)
 - 💞️ I’m looking to collaborate on malware analyis topics  
