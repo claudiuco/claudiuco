@@ -1,6 +1,6 @@
 - 👋 Hola, I’m @claudiuco
 - 👀 I’m interested in cybersecurity, malware analysis and incident response.
-- 🌱 I’m currently preparing for CompTIA Security+ and ISC2 Certificate in Cybersecurity (CC)
+- 🌱 I’m currently preparing for CompTIA Security+ and CompTIA CySA+
 - 💞️ I’m looking to collaborate on malware analyis topics  
 - 📫 How to reach me: no thanks, no need for me becoming a target practice for script kiddies. 
 - 😄 Pronouns: security/convenience
