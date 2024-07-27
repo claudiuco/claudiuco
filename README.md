@@ -6,7 +6,7 @@
 - 😄 Pronouns: security/convenience
 - ⚡ Fun fact: I used to be a system administrator and to hate my guts security guys! If you cannot beat them, join them. 
 
-<script src="https://tryhackme.com/badge/2105346"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/leviathann.png" alt="TryHackMe">
 
 <!---
 thegoodroot/thegoodroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
